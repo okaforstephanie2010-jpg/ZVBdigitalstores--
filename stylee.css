@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #b96fff;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('your-background.jpg'); /* Replace with your actual file */
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain;
+}
+
+header {
+  text-align: center;
+  padding: 50px 20px 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #a855f7;
+}
+
+.hero {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.
+
+.reviews {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.reviews h2 {
+  margin-bottom: 20px;
+}
+
+.review {
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #d1b3ff;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #888;
+}
+.logo-background {
+  background-image: url('logo.PNG');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #000;
+  padding: 100px 20px;
+  text-align: center;
+  color: #b96fff;
+}
+
+
+header {
+  background-image: url('logo.PNG');
+  background-repeat: no-repeat;
+  background-position: center ; /* logo on left side */
+  background-size: 500px auto; /* adjust size */
+  padding-left: 100px; /* space so text doesn't overlap logo */
+  color: #b96fff;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+#paypal-container-BJBK48NJDK3TE {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(128, 0, 255, 0.4);
+  max-width: 1000px;
+  margin: 40px auto;
+  transition: transform 0.3s ease;
+}
+
+#paypal-container-BJBK48NJDK3TE:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 25px rgba(128, 0, 255, 0.6);
+}
+
+.button {
+  background-color: #000000; /* Black background */
+  color: #6A0DAD; /* Purple
+  width: 1000px;
+  height: 300px;
+  }
+  
+  
+  
+  
+ 
+.logo {
+  width: 120px;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
+.tagline {
+  font-style: italic;
+  font-size: 1.1em;
+}
+
+.products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 40px 0;
+}
+
+.product {
+  width: 90%;
+  max-width: 500px;
+  background: #111;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(160, 32, 240, 0.5);
+}
+
+.product h2 {
+  margin-bottom: 10px;
+}
+
+footer {
+  border-top: 2px solid #a020f0;
+  padding: 20px;
+  margin-top: 50px;
+}
